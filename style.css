@@ -1,0 +1,14 @@
+body
+{
+    background-color: #aaaaaa;
+    background-image: url("tlo.jpg");
+    color: white;
+}
+#polegry
+{
+    margin: 50px 250px;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+    padding: 15px 15px;
+    border-radius: 30px 30px;
+}
